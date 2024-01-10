@@ -1,0 +1,11 @@
+{
+  "name": "Test app",
+  "desc": "A test app",
+  "url": "https://muenster-client.vercel.app/",
+  "longDesc": "A cool test app for things. [h1]H1[/h1] [h2]H2[/h2] [h3]H3[/h3] [b]bold[/b] [i]italic[/i] [u]underline[/u] [s]strikethrough[/s] [hr] horizontial rule [br] line break",
+  "icon": "https://clockwork-os.vercel.app/assets/images/icon.png",
+  "author": "You",
+  "version": "v1.0.0",
+  "finderTerms": ["term","cool","epic"],
+  "permissions": []
+}
