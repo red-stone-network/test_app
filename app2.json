@@ -1,0 +1,13 @@
+{
+  "name": "Also a test app",
+  "desc": "A test app",
+  "app-store-namespace": "test_app_2",
+  "url": "https://muenster-client.vercel.app/",
+  "longDesc": "hello world!",
+  "icon": "https://clockwork-os.vercel.app/assets/images/icon.png",
+  "banner": "https://cdn.jsdelivr.net/gh/red-stone-network/test_app/banner.png",
+  "author": "Redstone_Network",
+  "version": "v1.0.0",
+  "finderTerms": ["term","cool","epic"],
+  "permissions": []
+}
